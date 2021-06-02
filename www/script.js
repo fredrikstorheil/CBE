@@ -63,7 +63,7 @@ function countDown() {
 }
 
 function audioPlay() {
-    let audio = new Audio('dog-30s.m4a');
+    let audio = new Audio('media/dog-30s.m4a');
     audio.play();
 }
 
